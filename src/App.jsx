@@ -57,72 +57,11 @@ function App() {
 									</div>
 								</form>
 
-								{/* SEZIONE MESSAGGIO ERRORE DESTINAZIONE */}
-
-								{/*<div className="row no-margin">
-							<div className="col-md-12" id="info_nodest">
-								<h3>Destination not avaible</h3>
-							</div>
-						</div>
-		</div>
-  				
-						{/* <!-- FORM DI RECAP BOOKING --> */}
-
-								{/* <div className="booking-form">
-							<div id="data_booking" className="row no-margin">
-								<div className="col-md">
-									<div className="row no-margin">
-										<div className="col-md-5">
-											<div className="form-group">
-												<span id="data_destination" className="form-label">Destination</span>
-											</div>
-										</div>
-										<div className="col-md-5">
-											<div className="form-group">
-												<span className="form-label">From</span>
-												<select className="form-control" id="from_city" name="from_city">
-													
-												</select>
-												<span className="select-arrow"></span>
-											</div>
-										</div>
-										
-									</div>
-								</div>
-								<div className="col-md">
-									<div className="row no-margin">
-										<div className="col-md-5">
-											<div className="form-group">
-												<span id="data_type" className="form-label">Type</span>
-											</div>
-										</div>
-										<div className="col-md-5">
-											<div className="form-group">
-												<span id="data_date" className="form-label">Date</span>
-											</div>
-										</div>
-										<div className="col-md-2">
-											<div className="form-group">
-												<span id="data_guest" className="form-label">Guests </span>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div className="col-md">
-									<div className="form-btn">
-										<button id="send_btn" className="submit-btn">Book Now </button>
-									</div>
-								</div>
-		                    </div>
-				        </div> */}
-
-
 							</div>
 						</div>
 					</div>
 				</div>
 
-				{/* <form id="form_invio" action="booking.php" method="post"></form>  */}
 			</div>
 		</>
 	)
