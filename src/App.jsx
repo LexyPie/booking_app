@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import FormBooking from './components/form/FormBooking'
 import './components/style/style.css'
 
